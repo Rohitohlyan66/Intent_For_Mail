@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intent For Email</string>
+    <string name="implicit_intent">IMPLICIT INTENT</string>
+</resources>
